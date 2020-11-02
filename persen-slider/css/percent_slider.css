@@ -1,0 +1,16 @@
+h2 {
+  margin-bottom:0;
+}
+h3 {
+  margin:0 0 30px;
+} 
+.ui-slider-range {
+   background:green;
+}
+.percent {
+  color:green;
+  font-weight:bold;
+  text-align:center;
+  width:100%;
+  border:none;
+}
